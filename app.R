@@ -112,47 +112,59 @@ ui <- dashboardPage(
   dashboardSidebar(disable = FALSE, collapsed = FALSE,
                    
                    sidebarMenu(
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
                    menuItem("Date-Specific", tabName = "Date-Specific", icon = NULL),
                    menuItem("", tabName = "cheapBlankSpace", icon = NULL),
-                   menuItem("Station-Specific", tabName = "Station-Specific", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
                    menuItem("", tabName = "cheapBlankSpace", icon = NULL),
                    menuItem("", tabName = "cheapBlankSpace", icon = NULL),
                    menuItem("", tabName = "cheapBlankSpace", icon = NULL)),
@@ -164,6 +176,10 @@ ui <- dashboardPage(
                    menuItem("", tabName = "cheapBlankSpace", icon = NULL),
                    menuItem("", tabName = "cheapBlankSpace", icon = NULL),
                    menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
+                   menuItem("", tabName = "cheapBlankSpace", icon = NULL),
                    selectInput("Year12", "Select the year for UIC-Halsted", years, selected = 2021),
                    selectInput("Loc12", "Select location to display", locationOrdered, selected = "UIC-Halsted")
   ),
@@ -171,80 +187,74 @@ ui <- dashboardPage(
     tabItems(
         tabItem(tabName="Date-Specific",
             fluidRow(
-              column(6,
+              column(8,
                 fluidRow(
                     box(title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,background = "orange",
-                    plotOutput("hist1", height = 1080))
+                    plotOutput("hist1", height = 900))
                 ),
                 fluidRow(
-                  box( title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,background = "orange",
-                       dataTableOutput("tab1", height = 1080))
+                  box(title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,background = "lime",
+                      plotOutput("hist2", height = 900))
                 )
               ),
-              column(6,
-                     fluidRow(
-                       box(title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,background = "lime",
-                           plotOutput("hist2", height = 1080))
+              column(1,
+                    fluidRow(
+                       box( title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,background = "orange",
+                            dataTableOutput("tab1", height = 800))
                      ),
                      fluidRow(
                        box( title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,background = "lime",
-                            dataTableOutput("tab2", height = 1080))
+                            dataTableOutput("tab2", height = 800))
                      )
               ),
-              column(10,
+              column(2,
+                     fluidRow(
+                       box(title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,
+                           plotOutput("hist12", height = 550)
+                       )
+                     ),
+                     
                      
                      fluidRow(
-                       box(title = "Leaflet Map", solidHeader = TRUE, status = "primary", width = 12,background = "lime",
-                           leafletOutput("leaf", height = 1080))
+                       box(title = "Monthly data (mean) of Rides per day", solidHeader = TRUE, status = "primary", width = 12,
+                           plotOutput("hist22", height = 550)
+                       )
+                     ),
+                     
+                     fluidRow(
+                       box(title = "Number of rides based on days of the week", solidHeader = TRUE, status = "primary", width = 12,
+                           plotOutput("hist32", height = 550)
+                       )
+                     ),
+                     
+              ),
+              column(1,
+                     fluidRow(
+                       box( title = "Daily data of Rides per dayr", solidHeader = TRUE, status = "primary", width = 12,
+                            dataTableOutput("tab12", height = 800)
+                       )
+                     ), 
+                     fluidRow(
+                       box( title = "Monthly data (mean) of Rides per day", solidHeader = TRUE, status = "primary", width = 12,
+                            dataTableOutput("tab22", height = 350)
+                       )
+                     ),
+                     fluidRow(
+                       box( title = "Number of rides based on days of the week", solidHeader = TRUE, status = "primary", width = 12,
+                            dataTableOutput("tab32", height = 280)
+                       )
                      )
               )
+              ,
+            column(7,
+                   fluidRow(
+                     box(title = "Leaflet Map", solidHeader = TRUE, status = "primary", width = 12,
+                         leafletOutput("leaf", height = 1080))
+                   )
+            )
               
             )
-        ),
-        tabItem(tabName="Station-Specific",
-                fluidRow(
-                  #this column holds the 3 bar charts based on requirements part 1
-                  column(6,
-                         fluidRow(
-                           box(title = "Daily data of Rides per day", solidHeader = TRUE, status = "primary", width = 12,
-                               plotOutput("hist12", height = 1080)
-                           )
-                         ),
-                         
-                         
-                         fluidRow(
-                           box(title = "Monthly data (mean) of Rides per day", solidHeader = TRUE, status = "primary", width = 12,
-                               plotOutput("hist22", height = 1080)
-                           )
-                         ),
-                         
-                         fluidRow(
-                           box(title = "Number of rides based on days of the week", solidHeader = TRUE, status = "primary", width = 12,
-                               plotOutput("hist32", height = 1080)
-                           )
-                         ),
-                         
-                  ),
-                  #this column holds the 3 data tables based on requirements part 1
-                  column(6,
-                         fluidRow(
-                           box( title = "Daily data of Rides per dayr", solidHeader = TRUE, status = "primary", width = 12,
-                                dataTableOutput("tab12", height = 1080)
-                           )
-                         ), 
-                         fluidRow(
-                           box( title = "Monthly data (mean) of Rides per day", solidHeader = TRUE, status = "primary", width = 12,
-                                dataTableOutput("tab22", height = 400)
-                           )
-                         ),
-                         fluidRow(
-                           box( title = "Number of rides based on days of the week", solidHeader = TRUE, status = "primary", width = 12,
-                                dataTableOutput("tab32", height = 300)
-                           )
-                         )
-                  )
-                )
-                )
+        )
     )
   )
 )
@@ -290,7 +300,7 @@ server <- function(input, output) {
       
       unique.data.frame(justOneYear[, c(Date = "newDate", Rides = "rides")])
     }, 
-    options = list(searching = FALSE, pageLength = 28, lengthChange = FALSE
+    options = list(searching = FALSE, pageLength = 20, lengthChange = FALSE
     ), rownames = FALSE 
     )
   )
@@ -302,7 +312,7 @@ server <- function(input, output) {
       
       unique.data.frame(monthly[, c(Month = "month",Rides = "No_of_Rides")])
     }, 
-    options = list(searching = FALSE, pageLength = 28, lengthChange = FALSE
+    options = list(searching = FALSE, pageLength = 12, lengthChange = FALSE
     ), rownames = FALSE 
     )
   )
@@ -314,7 +324,7 @@ server <- function(input, output) {
       
       unique.data.frame(weekly[, c(Day_of_week = "day",Rides = "No_of_Rides")])
     }, 
-    options = list(searching = FALSE, pageLength = 28, lengthChange = FALSE
+    options = list(searching = FALSE, pageLength = 7, lengthChange = FALSE
     ), rownames = FALSE 
     )
   )
@@ -342,7 +352,7 @@ server <- function(input, output) {
     dailyLeaflet = dailyLeafletReactive()
     map <- leaflet() %>% addMarkers(data=dailyLeaflet, lng = ~Longitude, lat = ~Latitude, popup = ~as.character(stationname), icon = list(
       iconUrl = 'https://icons.iconarchive.com/icons/icons8/windows-8/72/City-Railway-Station-icon.png',
-      iconSize = c(20, 20)
+      iconSize = c(80, 80)
     )) %>% 
       addTiles() %>%  setView(lng = -87.647998, lat = 41.870, zoom = 11)
     if(input$Map ==providers$OpenStreetMap){
@@ -366,7 +376,7 @@ server <- function(input, output) {
       dailyData <- dailyReactive()
       unique.data.frame(dailyData[, c(Station_Name = "stationname", Rides = "rides")])
     }, 
-    options = list(searching = FALSE, pageLength = 28, lengthChange = FALSE
+    options = list(searching = FALSE, pageLength = 23, lengthChange = FALSE
     ), rownames = FALSE 
     )
   )
@@ -411,7 +421,7 @@ server <- function(input, output) {
       dailyData <- dailyReactive1()
       unique.data.frame(dailyData[, c(Station_Name = "stationname", Rides = "rides")])
     }, 
-    options = list(searching = FALSE, pageLength = 28, lengthChange = FALSE
+    options = list(searching = FALSE, pageLength = 23, lengthChange = FALSE
     ), rownames = FALSE 
     )
   )
